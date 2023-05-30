@@ -4,7 +4,7 @@
     },
 
     "URLS": {
-        "apiURL": ""
+        "apiURL": "https://discord-sdoz.onrender.com"
     },
 
     "webhook": {
